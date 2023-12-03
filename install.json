@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "a_goat_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg",
+    "owner": "xenonpy",
+    "name": "a_goat_image",
+    "is_archive": "no"
+    "variants": {
+      "white":"https://live.staticflickr.com/5207/5245833777_65d28006a8_b.jpg"
+    }
+    }
+  ]
+}
