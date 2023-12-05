@@ -1,14 +1,14 @@
 {
-  "packages": [
+  "packages":
     {
       "a_goat_image": {
-        "url": "https://goathosting.xenonpy.repl.co/goat.zip",
+        "url": "https://goathosting.xenonpy.repl.co/a_goat_image.zip",
         "owner": "xenonpy",
         "name": "a_goat_image",
-        "variants": {
-          "white": "https://goathosting.xenonpy.repl.co/goat.zip"
-        }
+        "versions": {
+          "burger": "https://goathosting.xenonpy.repl.co/a_goat_image_burger.zip"
+        },
+        "filename": "goat.zip"
       }
     }
-  ]
 }
