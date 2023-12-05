@@ -3,6 +3,7 @@ if [ -e goatconfig.json ]
 then
     echo "Goat: Creating config"
     touch goatconfig.json
+    echo "config created!" >> goatconfig.json
 else
-    echo "---goat v0.1.0---"
-fi
+    echo "goat v0.1.0"
+fi 
