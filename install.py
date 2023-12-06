@@ -7,8 +7,9 @@ from rich.console import Console
 from rich.markdown import Markdown
 console = Console()
 import sys
-
+print(sys.argv)
 operation = sys.argv[1]
+print(operation)
 
 def pause():
     time.sleep(0.1)

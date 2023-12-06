@@ -7,4 +7,4 @@ then
 else
     echo "goat v0.1.0"
 fi 
-python3 install.py "@$"
+python3 install.py $1 $2 $3
